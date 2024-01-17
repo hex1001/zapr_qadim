@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-5"?>
+
+<CoDeSysSymbolTable>
+	<SymbolHeader>
+		<Version>-1</Version>
+		<ProjectId>640722</ProjectId>
+		<WorkbenchVersion>2.3.9.42</WorkbenchVersion>
+		<CompilerVersion>2.3.9.42</CompilerVersion>
+	</SymbolHeader>
+	<SymbolTypeList>
+		<TypeSimple TypeId="0" Size="4">REAL</TypeSimple>
+		<TypeSimple TypeId="1" Size="0">BOOL</TypeSimple>
+	</SymbolTypeList>
+	<SymbolVarList>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="222">._4pressLeveOutDI</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="218">.__1pressLevelInDI</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="219">.__2pressLevelInDI</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="220">.__3pressLevelInDI</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="221">.__4pressLevelInDI</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="30">._alarmLedDO_blink</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="228">._buttonPusk</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="227">._buttonRejim</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="226">._buttonStop</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="214">._controlFazaDI</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="215">._currentHighJD5DI</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="225">._emergencyStop</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="231">._emergencyStopMashZal</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="29">._kompOffDO</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="28">._kompOnDO</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="224">._konsovikMechanikMotor</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="22">._oilGate_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="23">._oilGate_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="235">._pressOilMAXDI</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="234">._pressOilMINDI</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="27">._PuskModeDO</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="25">._rejimModeDO</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="31">._stopModeDO</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="229">._switchAuto</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="230">._switchManual</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="217">._vacumContactOffDI</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="216">._vacumContactOnDI</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="233">.gazaAnaliz</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="26">.KM1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="12">.KM10_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="13">.KM10_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="14">.KM11_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="15">.KM11_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="16">.KM14_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="17">.KM14_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="18">.KM18_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="19">.KM18_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="24">.KM2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="0">.KM4_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="1">.KM4_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="2">.KM5_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="3">.KM5_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="4">.KM6_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="5">.KM6_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="6">.KM7_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="7">.KM7_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="8">.KM8_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="9">.KM8_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="10">.KM9_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="11">.KM9_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="236">.pressOil_DI</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="223">.pressWaterDI</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="21">.readyOil</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="20">.readyWater</Var>
+		<Var Type="0" Flags="33554500" Access="98" RefId="4" Offset="148">.rVersion</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="204">.S10_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="205">.S10_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="206">.S11_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="207">.S11_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="208">.S14_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="209">.S14_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="210">.S18_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="211">.S18_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="212">.S19_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="213">.S19_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="192">.S4_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="193">.S4_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="194">.S5_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="195">.S5_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="196">.S6_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="197">.S6_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="198">.S7_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="199">.S7_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="200">.S8_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="201">.S8_2</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="202">.S9_1</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="203">.S9_2</Var>
+	</SymbolVarList>
+	<SymbolTaskList/>
+	<SymbolTargetSettings>
+		<MaxNumberOfPOUs>1023</MaxNumberOfPOUs>
+		<Segments>
+			<Segment Area="-1" RefId="0" Address="536870912" Size="16384" Attributes="0"/>
+			<Segment Area="-1" RefId="1" Address="684715008" Size="3064" Attributes="0"/>
+			<Segment Area="-1" RefId="2" Address="684709888" Size="3064" Attributes="0"/>
+			<Segment Area="-1" RefId="3" Address="536887296" Size="16384" Attributes="2"/>
+			<Segment Area="0" RefId="4" Address="0" Size="512000" Attributes="1"/>
+		</Segments>
+	</SymbolTargetSettings>
+</CoDeSysSymbolTable>
