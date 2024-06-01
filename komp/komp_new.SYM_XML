@@ -3,7 +3,7 @@
 <CoDeSysSymbolTable>
 	<SymbolHeader>
 		<Version>-1</Version>
-		<ProjectId>904922</ProjectId>
+		<ProjectId>1863799</ProjectId>
 		<WorkbenchVersion>2.3.9.42</WorkbenchVersion>
 		<CompilerVersion>2.3.9.42</CompilerVersion>
 	</SymbolHeader>
@@ -40,6 +40,7 @@
 		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="217">._vacumContactOffDI</Var>
 		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="216">._vacumContactOnDI</Var>
 		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="233">.gazaAnaliz</Var>
+		<Var Type="1" Flags="33554464" Access="98" RefId="1" Offset="232">.gazaAnalizMashzal</Var>
 		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="26">.KM1</Var>
 		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="12">.KM10_1</Var>
 		<Var Type="1" Flags="33554464" Access="98" RefId="2" Offset="13">.KM10_2</Var>

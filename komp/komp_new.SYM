@@ -1,5 +1,5 @@
 ;Version=2
-;ProjectId=904922
+;ProjectId=1863799
 ;Checksum=0
 ;Filesize=0
 ._4pressLeveOutDI:BOOL:1:222:0:b:16#02000020
@@ -30,6 +30,7 @@
 ._vacumContactOffDI:BOOL:1:217:0:b:16#02000020
 ._vacumContactOnDI:BOOL:1:216:0:b:16#02000020
 .gazaAnaliz:BOOL:1:233:0:b:16#02000020
+.gazaAnalizMashzal:BOOL:1:232:0:b:16#02000020
 .KM1:BOOL:2:26:0:b:16#02000020
 .KM10_1:BOOL:2:12:0:b:16#02000020
 .KM10_2:BOOL:2:13:0:b:16#02000020
